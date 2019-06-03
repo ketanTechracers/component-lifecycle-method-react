@@ -1,0 +1,13 @@
+.profile {
+  width: 60%;
+  margin: 10px auto;
+}
+
+.marginTop {
+  margin-top: 5px;
+}
+
+.badge {
+  margin-left: 3px;
+  cursor: pointer;
+}
